@@ -7,4 +7,4 @@ The website incorporates responsive design principles, ensuring that it can adap
 
 Media queries are utilized in the CSS code to apply different styles and adjust the layout based on the screen dimensions, providing an optimal viewing experience for users.
 
-Live Demo : https://omjaju18.github.io/Netflix-Clone/
+
