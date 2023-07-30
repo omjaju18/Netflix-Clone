@@ -1,6 +1,5 @@
 # Netflix-Clone
 
-
 ## Key Points: 
 - Developed a fully responsive Netflix clone using HTML and CSS, replicating the official website's design and layout across multiple pages. 🎥🌐
   
